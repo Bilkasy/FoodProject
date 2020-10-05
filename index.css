@@ -11,7 +11,7 @@ form{
     
 }
 body{
-    background-image:url(../pics/food.jpg) ;
+    background-image:url(food.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;        

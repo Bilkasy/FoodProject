@@ -1,0 +1,44 @@
+form{   
+     margin-top: 15%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    font-size: x-large;
+    color: azure;
+    font-style: italic;
+    border: 1px solid cornsilk;
+    display: inline-block;
+    
+}
+body{
+    background-image:url(../pics/food.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;        
+}
+#submit{
+    background-color: burlywood;
+    color: cornsilk;
+    font-weight: bolder;
+    margin-top: 5px;
+    padding: 1.5%;
+}
+
+input{
+    text-align: center;
+}
+input:nth-child(1),input:nth-child(2)
+{
+    width: 41%;
+}
+input:nth-child(3),input:nth-child(4)
+{
+    width: 41%;
+    margin-top: 2%;
+}
+input:nth-child(5),input:nth-child(6)
+{
+    width:82.5%;
+    margin-top: 2%;
+}
+

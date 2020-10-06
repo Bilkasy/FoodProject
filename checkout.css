@@ -1,0 +1,41 @@
+table,tr,td,th{
+    border: 1px solid brown;
+    text-align: center;
+}
+th{
+    font-weight: bolder;
+}
+#total,#bye{
+    visibility: hidden;
+}
+
+.checkout-container{
+    border: 1px solid black;
+    background-color: papayawhip;
+    opacity: 0.9;
+    width: 50%;
+    margin: auto;
+    margin-top: 12%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(food.jpg);
+}
+.table{
+    margin: auto;
+
+}
+#submit{
+    margin-top: 2%;
+    padding:1%;
+    color: darkgoldenrod;
+    
+    
+}
+#checkout-header{
+    
+    background-color:rgb(189, 147, 70);
+}
